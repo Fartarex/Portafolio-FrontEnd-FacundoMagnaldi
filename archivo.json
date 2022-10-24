@@ -1,0 +1,19 @@
+"compilerOptions" {
+    "target": "es5",
+    "outFile": "./output/app.js",
+
+"estudiante"{
+    "misNombres": "Facundo Alejandro",
+    "misApellidos": "Magnaldi Marini",
+    "loQueMeGusta": "Soy un estudiante en la escuela técnica Santa María de Oro y me encuentro siendo abanderado. Mi carrera es de mecánica ind. y soy también estudiante apasionado de la programación con ArgentinaPrograma-YoProgramo",
+    "edad": "Dieciocho años",
+    "actividadesQueHago/hacía":{
+        "rugby": "Entrené por muschos años este deporte siendo seleccionado para competir con equipos de muy alto rango",
+        "gym": "Tras una lesión en Rugby me introducí al GYM y ahora es el deporte que hago actualmente",
+        "guitarra": true,
+        "ingeniería": false,
+    }
+    {
+    "tengoPCpropia": false,
+    }
+},

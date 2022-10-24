@@ -1,0 +1,10 @@
+Como iniciar Angular en la terminal:  
+  1_Primero hay que abrir el Símbolo del sistema y dentro escribir "cd" seguido de la ubicación de la carpeta donde quieres instalar los archivos de Angular. En mi caso fue: "cd C:\Users\NOBLEX\Desktop\(Desafío a subir de módulo) Maquetado".
+  2_Segundo debes ingresar el comando "ng new" seguido del nombre con el que quieres nombrar la carpeta donde se instalaran todos los archivos. En mi caso fue "ng new angular".
+  3_Y por últuimo abrimos un server con el comando "ng serve --open". 
+
+
+
+Como crear componentes en Angular:
+  1_Primero en la terminal poner "cd" seguido de la ruta donde crear los archivos, por ej: "C:\Users\NOBLEX\Desktop\(Desafío a subir de módulo) Maquetado\angular".
+  2_Con el comando "ng g c" y luego el nombre de la carpeta a crear, seguido el nombre de los archivos, por ej: "modulo1/seg-pag".
